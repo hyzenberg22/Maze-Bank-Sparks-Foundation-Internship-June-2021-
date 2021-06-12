@@ -166,7 +166,9 @@ if (isset($_POST['submit'])) {
             </div>
         </form>
     </div>
-    <footer class="text-center mt-5 py-2">
+    <footer class="text-center mt-5 py-2" style="position: relative;
+    top: 5rem;
+    background: white;">
         <p>&copy 2021. Made by <b>Shubhajit Sarkar</b> <br> Official</p>
     </footer>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
