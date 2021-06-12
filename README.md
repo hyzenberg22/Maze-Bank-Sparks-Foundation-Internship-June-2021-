@@ -7,7 +7,9 @@ Technology Used.
     Database : MySQL   
 
 Maze Bank WebSite Description:
+
     There are 3 main fields in the main page :
+    
         1. Creat a User:
             This is for creating a new user and Input a DataBase just fill the required field.
                 1.Name
