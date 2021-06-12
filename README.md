@@ -1,12 +1,12 @@
 # TASK-1 := BASIC BANKING SYSTEM 
 **This is the Sparks Foundation(GRIP) internship for the Month of the JUNE 2021**
 
-Technology Used.
+## Technology Used.
     Front-end : HTML, CSS, Javascript & Bootstrap 
     Back-end : PHP , XAMPP
     Database : MySQL   
 
-**Maze Bank WebSite Description:**
+## **Maze Bank WebSite Description:**
 This is a Basic Banking Website, based on the famous Game "GTA5 MAze-Bank". You can Creat a new user, see the transection history and make the transection to the other accounts.
 
         There are 3 main fields in the main page
