@@ -1,5 +1,5 @@
 # TASK :- 1 BASIC BANKING SYSTEM 
-This is the Sparks Foundation(GRIP) internship for the Month of the Julay 2021
+This is the Sparks Foundation(GRIP) internship for the Month of the JUNE 2021
 
 Technology Used.
     Front-end : HTML, CSS, Javascript & Bootstrap 
